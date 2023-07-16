@@ -1,0 +1,70 @@
+body{ /*ESPACIO DONDE SE MODIFICARÁ TODO EL CONTENIDO*/
+    background: linear-gradient(#f7e3fc,#cbeeec,#d5f6e1); /*CODIGO PARA DEGRADADO*/
+    color: black;
+    font-family: 'Manrope', sans-serif;   /*TIPO DE LETRA*/
+    font-size: 20px;   /*TAMAÑO DE LETRA GENERAL*/
+}
+/* TITULO AJOLOTE MEXICANO*/
+.titulo{
+    color: #7d3143;
+    text-align: center;
+    font-family: 'Rubik Vinyl', cursive;
+    font-size: 70px;
+}
+/* MENU DE ENLACES*/
+.Menu{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(#fdbdbd,#faf4ff);
+    font-size: 30px;
+
+}
+
+.textojustificado{
+    text-align: justify;
+}
+
+/* TODAS LAS IMAGENES*/
+img{
+    width: 280px;   /* TAMAÑO*/
+    
+}
+/* IMAGEN AJOLOTE*/
+.axolote11{
+    width: 30%;
+    display: flex;
+    margin-left: 70%; /*ESPACIADO*/
+    
+}
+/* ENLACES*/
+a{
+    color:#943a4f;
+    text-decoration:none;
+    font-family: 'Bagel Fat One', cursive;
+    font-size: 80%;
+}
+/* CARACTERISTICAS DE LOS AXOLOTES*/
+.titulo2{
+    font-family: 'Righteous', cursive;
+    color:darkolivegreen;
+}
+
+.gif{
+    width: 20%;
+    display: flex;
+    margin-right: 70%;
+}
+
+.gif2{
+    width: 80px;
+    display: flex;
+    margin-left: 90%;
+}
+
+.img1{
+    display: flex;
+    margin-left: 60%;
+}
+
+/* AQUI VA COMENTARIO*/
